@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinhyeok15%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjun2mun%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinhyeok15&&show_icons=true&theme=Default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinhyeok15&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun2mun&&show_icons=true&theme=Default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jun2mun&layout=compact)
 
 <div align=center><h1>📚 STACKS 🛠 </h1></div>
       <div align=center>
@@ -30,7 +30,7 @@
       </div>
 
 <!--
-**jinhyeok15/jinhyeok15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jun2mun/jun2mun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
